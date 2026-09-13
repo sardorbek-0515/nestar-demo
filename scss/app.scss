@@ -1,4 +1,4 @@
-/** IMPORTS **/
+/** IMPORTS **/ // umumiy mantiqlar 
 @import "variables.scss";
 @import "reset.scss";
 
@@ -10,7 +10,6 @@
         position: relative;
         width: 1300px;
         margin: 0 auto;
-        display: flex;
-        background: yellow;
+        display: flex; 
     }
 }
