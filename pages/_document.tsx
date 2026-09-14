@@ -12,7 +12,7 @@ export default function Document() {
         {/* SEO */}
         <meta
           name="keyword"
-          content="nestar, nestar.uz, devex, mern, mern nestjs fullstack"
+          content={"nestar, nestar.uz, devex mern, mern nestjs fullstack"}
         />
         <meta
           name="description"
@@ -23,7 +23,6 @@ export default function Document() {
           }
         />
       </Head>
-
       <body>
         <Main />
         <NextScript />
